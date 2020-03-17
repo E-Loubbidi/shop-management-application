@@ -1,2 +1,5 @@
 # shop-management-application
-application with JavaFx, Mysql, JPA/Eclipse-link 
+
+Application with JavaFx, Mysql, JPA/Eclipse-link 
+
+
